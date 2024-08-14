@@ -2,7 +2,9 @@
     xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
     xmlns="sap.m">
     <Page id="page" title="{i18n>title}">
-        <HBox id="_IDGenHBox1"></HBox>
+        <HBox id="_IDGenHBox1">
+            <Text id="text1" text="Hello"/>
+        </HBox>
         <content />
     </Page>
 </mvc:View>
