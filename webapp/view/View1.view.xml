@@ -3,7 +3,7 @@
     xmlns="sap.m">
     <Page id="page" title="{i18n>title}">
         <HBox id="_IDGenHBox1">
-            <Text id="text1" text="Hello"/>
+            <Text id="text1" text="Hello, world!"/>
         </HBox>
         <content />
     </Page>
